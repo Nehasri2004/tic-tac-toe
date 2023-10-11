@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "neha",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "title": "srii",
+      "id": 3
+    },
+    {
+      "title": "nehaaa",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "pichiiidhiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiidhaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaanaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa srunviiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiithaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "Meghanaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "title": "Tarunyyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "title": "nehaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaafreeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "completed": false,
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
